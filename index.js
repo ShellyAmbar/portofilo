@@ -11,9 +11,10 @@ import store from "./redux-thunk/store";
 
 ReactDOM.render(
   <BrowserRouter>
-    <Provider store={store}>
+    {/* <Provider store={store}>
       <App />
-    </Provider>
+    </Provider> */}
+    <App />
   </BrowserRouter>,
   document.getElementById("root")
 );
