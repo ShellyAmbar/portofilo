@@ -1,0 +1,22 @@
+.container-shop {
+  width: 100%;
+  justify-content: "center";
+  align-content: center;
+  text-align: center;
+  align-items: center;
+  padding: 10px;
+}
+.shop-headline {
+  width: 100%;
+  text-align: center;
+  color: blueviolet;
+}
+.container-products {
+  padding: 10px;
+
+  align-self: center;
+  width: 100%;
+}
+.product-card {
+  margin: 10;
+}
